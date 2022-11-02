@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Vajk93
-- 👀 I’m interested in webdevelopment
-- 🌱 I’m currently learning frontend webdevelopment, and i want to be a fronted dev of course. 
--my facebook: https://www.facebook.com/vajk.turoczy.5
--my website: https://vajkvajk.hu
+Hello, 
 
-<!---
-Vajk93/Vajk93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Vajk, and I love frontend webdevelopment.
+
+My website: https://vajkvajk.hu
+
+My stack: React, JavaScript, CSS, HTML
+
+instagram profile: turoczy_vajk
+
+Have a nice day!
+
+
