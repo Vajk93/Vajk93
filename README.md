@@ -1,13 +1,20 @@
 Hello, 
 
-My name is Vajk, and I love frontend webdevelopment.
+My name is Vajk, and I am a web and marketing coordinator. 
 
-My website: https://vajkvajk.hu
+I like webdevelopment, and i have experience with these technologies:
+vanilla JS/CSS
+React.js
+Next.js
+Tailwind
+Bootstrap
+Typescript
 
-My stack: React, JavaScript, CSS, HTML, Bootstrap, jQuery
+My business website is not open source, but here is my portfolio website:  https://vajkvajk.hu 
+(I don't have many projects up, I will update them sometime)
 
-instagram profile: turoczy_vajk
+LinkedIn: https://www.linkedin.com/in/vajk-tur%C3%B3czy-58a2aa1b1
 
-Have a nice day!
+Have fun with coding!
 
 
