@@ -16,7 +16,7 @@ Have fun with coding!
 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.typescriptlang.org/icons/icon-512x512.png" alt="typescript" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="[https://www.typescriptlang.org/icons/icon-512x512.png](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/32f3a89c-99c4-466f-8536-dd75f65fa320/Strapi-Monogram/w=128,quality=90,fit=scale-down)" alt="typescript" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/32f3a89c-99c4-466f-8536-dd75f65fa320/Strapi-Monogram/w=128,quality=90,fit=scale-down" width="40" height="40"/></a>
 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://media.dev.to/cdn-cgi/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdxy1c2bvl6odeo52dodk.jpg" alt="typescript" width="40" height="40"/></a>
 <a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://react.dev/favicon.ico" alt="react" width="40" height="40"/></a>
