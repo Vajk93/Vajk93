@@ -1,16 +1,14 @@
-Hello, 
+Hi,
 
-My name is Vajk, I'm a frontend developer passionate about building user-friendly and visually stunning web experiences. 
-Daily, I wield the power of Angular and TypeScript (and Strapi for backend), crafting captivating UIs with the help of Tailwind. 
-However, React and Next.js are also in my arsenal, ready to be deployed when the project demands.
+My name is Vajk. I am a Frontend Developer, mostly use Angular, Typescript and TaliwindCSS. 
+I also open to work with other technologies. I am familiar with these: React, Next.js, and Bootstrap. 
+I am open to pick up new technologies like Vue.js, Flutter and React-Native.
 
-Always eager to experiment with the latest technologies, I thrive on creating awesome things. 
-I believe web development shouldn't just be functional, it should be beautiful too.
+Here is my portfolio website👇
+https://vajk.netlify.app/
 
-Here is my portfolio website (2 years old, i will create a new one in the neer future): 
-https://vajkvajk.hu 
-
-LinkedIn: https://www.linkedin.com/in/vajk-tur%C3%B3czy-58a2aa1b1
+Contact me on LinkedIn👇
+https://www.linkedin.com/in/vajkturoczy/
 
 Have fun with coding!
 
