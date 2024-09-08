@@ -1,18 +1,16 @@
 Hi,
 
-My name is Vajk. I am a Frontend Developer, mostly use Angular, Typescript and TaliwindCSS.
-
-I also open to work with other technologies. I am familiar with these: React, Next.js, and Bootstrap. 
-
+My name is Vajk. I am a Frontend Developer, mostly use Angular, Typescript and TaliwindCSS.<br/>
+I also open to work with other technologies. I am familiar with these: React, Next.js, and Bootstrap.<br/>
 I am open to pick up new technologies like Vue.js, Flutter and React-Native.
 
-Here is my portfolio website👇
+Here is my portfolio website👇<br/>
 https://vajk.netlify.app/
 
-Contact me on LinkedIn👇
+Contact me on LinkedIn 👇<br/>
 https://www.linkedin.com/in/vajkturoczy/
 
-Have fun with coding!😜
+Have fun with coding!😜👇
 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.typescriptlang.org/icons/icon-512x512.png" alt="typescript" width="40" height="40"/></a>
