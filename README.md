@@ -5,7 +5,7 @@ I also open to work with other technologies. I am familiar with these: React, Ne
 I am open to pick up new technologies like Vue.js, Flutter and React-Native.
 
 Here is my portfolio website👇<br/>
-https://vajk.netlify.app/
+https://turoczyvajk.hu/
 
 Contact me on LinkedIn 👇<br/>
 https://www.linkedin.com/in/vajkturoczy/
