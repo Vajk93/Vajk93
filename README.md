@@ -1,6 +1,10 @@
 Hi,
 
-My name is Vajk. I am a Frontend Developer, mostly use Angular, Typescript and TaliwindCSS.<br/>
+My name is Vajk. <br/>
+
+I've been using Gitlab for work since November 2024, so I don't seem to be as active here on Github since then. But I'm still active, just not here, but mostly at work.
+
+I am a Frontend Developer, mostly use Angular, Typescript and TaliwindCSS.<br/>
 I also open to work with other technologies. I am familiar with these: React, Next.js, and Bootstrap.<br/>
 I am open to pick up new technologies like Vue.js, Flutter and React-Native.
 
