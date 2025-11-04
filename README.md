@@ -1,24 +1,23 @@
-Hi,
+👋 Hi there! <br/>
 
-My name is Vajk. <br/>
+I'm an Angular developer passionate about building clean, scalable, and user-friendly web apps. <br/>
 
-I've been using Gitlab for work since November 2024, so I don't seem to be as active here on Github since then. But I'm still active, just not here, but mostly at work.
+💻 By day, I work with **Angular**, crafting frontend solutions — but I'm also actively working on side projects: <br/>
+- 📱 A **mobile app** using **Capacitor** <br/>
+- 🌐 A **fullstack hobby project** with **Angular** on the frontend and **NestJS** on the backend <br/>
+- 💨 I love using **Tailwind CSS** and **PrimeNG** to create polished UIs <br/>
+- 🧠 My stack revolves around **TypeScript**, and I use both **GitHub** and **GitLab** for version control <br/>
 
-I am a Frontend Developer, mostly use Angular, Typescript and TaliwindCSS.<br/>
-I also open to work with other technologies. I am familiar with these: React, Next.js, and Bootstrap.<br/>
-I am open to pick up new technologies like Vue.js, Flutter and React-Native.
+🤖 I'm also actively exploring and integrating **AI tools** into my workflow — whether it’s for boosting productivity, writing code, or prototyping faster.
 
-Here is my portfolio website👇<br/>
-https://turoczyvajk.hu/
+🚀 Always learning, always building.
 
-Contact me on LinkedIn 👇<br/>
-https://www.linkedin.com/in/vajkturoczy/
-
-Have fun with coding!😜👇
+🔒 I'm currently not looking for new opportunities, so I haven’t linked my portfolio or contact info here.
 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
+<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://nestjs.com/logo-small-gradient.d792062c.svg" alt="capacitor" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.typescriptlang.org/icons/icon-512x512.png" alt="typescript" width="40" height="40"/></a>
-<a href="https://strapi.io" target="_blank" rel="noreferrer"> <img src="https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/32f3a89c-99c4-466f-8536-dd75f65fa320/Strapi-Monogram/w=128,quality=90,fit=scale-down" width="40" height="40"/></a>
+<a href="https://capacitorjs.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8T2aQWYiXsT4ZkiFi6xrMwGpQp_PXyppISQ&s" alt="capacitor" width="40" height="40"/></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="tailwind" width="40" height="40"/></a>
 <a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://react.dev/favicon.ico" alt="react" width="40" height="40"/></a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://nextjs.org/favicon.ico" alt="nextjs" width="40" height="40"/></a>
