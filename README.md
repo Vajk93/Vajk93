@@ -12,8 +12,6 @@ I'm an Angular developer passionate about building clean, scalable, and user-fri
 
 🚀 Always learning, always building.
 
-🔒 I'm currently not looking for new opportunities, so I haven’t linked my portfolio or contact info here.
-
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
 <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://nestjs.com/logo-small-gradient.d792062c.svg" alt="capacitor" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.typescriptlang.org/icons/icon-512x512.png" alt="typescript" width="40" height="40"/></a>
