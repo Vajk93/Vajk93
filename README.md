@@ -1,8 +1,8 @@
 ### Vajk – Angular / TypeScript developer
 
-- Workplace: Solely responsible for the complete frontend architecture and development of a major project for nearly 2 years.
-- Side Project: Product Owner, UI/UX Designer, and Lead Architect for a full-stack SaaS/Mini ERP learning project (Angular + NestJS).
-- AI-Assisted Workflow: Across all my work, I focus on high-level system architecture, UI/UX, and product strategy, while heavily leveraging Claude to generate, refactor, and optimize the actual codebase.
-- Regularly use Tailwind CSS, PrimeNG, GitHub, GitLab, and extending into mobile apps with Capacitor.
+- Workplace: Leading the frontend architecture and development for a major enterprise project for 2 years, collaborating daily with backend engineers and stakeholders to deliver seamless features.
+- Side Project: Building a full-stack SaaS/Mini ERP (Angular + NestJS). Handling PO and UX/UI roles here broadens my product perspective, helping me align business needs with code in team environments.
+- Structured AI Workflow: I leverage Claude professionally through a strict engineering methodology: I define precise problems, analyze its architectural proposals, oversee code generation, and rigorously test and debug the output to ensure enterprise-grade quality.
+-Regularly use Tailwind CSS, PrimeNG, GitHub, GitLab, and Capacitor.
 
-**Stack:** Angular · TypeScript · NestJS · UI/UX Design · Product Ownership · System Architecture · Capacitor · Claude AI
+Stack: Angular · TypeScript · NestJS · System Architecture · Cross-functional Collaboration · Claude AI
