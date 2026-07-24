@@ -6,6 +6,6 @@
 
 - Side Project: Building a full-stack SaaS/Mini ERP (Angular + NestJS). Handling PO and UX/UI roles here broadens my product perspective, helping me align business needs with code in team environments.
 
-- Structured AI Workflow: I leverage Claude professionally through a strict engineering methodology: I define precise problems, analyze its architectural proposals, oversee code generation, and rigorously test and debug the output to ensure enterprise-grade quality. Regularly use Tailwind CSS, PrimeNG, GitHub, GitLab, and Capacitor.
+- Structured AI Workflow: I leverage Claude professionally through a strict engineering methodology. I define precise problems, independently design the system architecture and blueprints, and write targeted prompts based on this pre-planned structure. I then oversee code generation and rigorously test and debug the output to ensure enterprise-grade quality. Regularly use Tailwind CSS, PrimeNG, GitHub, GitLab, and Capacitor.
 
 Stack: Angular · TypeScript · NestJS · Frontend Ownership · State Management · Cross-functional Collaboration · Claude AI
