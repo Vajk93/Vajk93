@@ -1,43 +1,48 @@
-
 # Angular / TypeScript Developer
 
-Frontend engineer specializing in scalable enterprise applications, reactive state management, and structured AI-assisted workflows.
+Frontend engineer building scalable enterprise applications — with end-to-end ownership from architecture to production deployment.
 
 ## Current Focus
 
-* **Frontend Ownership (Enterprise):** Leading the frontend architecture for a nationwide real-time data processing platform. Managing the full frontend lifecycle (Angular, PrimeNG, Tailwind), complex authorization, and state management (heavily utilizing RxJS and Signals across service-driven architectures), while collaborating daily with cross-functional engineering teams.
-* **R&D / Side Projects:** Architecting a multi-tenant SaaS / Mini ERP (Angular + NestJS) to experiment with full-product lifecycles, integrating third-party services, and foundational DevOps.
+- **Sole Frontend Owner (Enterprise):** Designed and built the complete frontend of a nationwide, multi-tenant event registration and management platform from scratch, and have owned it for two years — architecture, permission model, HTTP error handling, i18n, ~50 screens — including production deployments. Angular · PrimeNG · Tailwind.
+- **Mobile (Capacitor):** Built ~90% of an offline-first Android app for continuous QR scanning at sports events: local storage with scheduled background sync, camera access, and refresh-token auth. Ran on **125 devices and processed 12,000+ scans during a single event day**.
+- **Product (solo, in production):** Building a multi-tenant SaaS end to end — Angular + NestJS + Prisma + PostgreSQL. HttpOnly JWT with rotating refresh tokens, CSRF origin checks, per-tenant rate limiting, granular permission keys, subscription-based feature gating, scheduled jobs, and CSV/XLSX import with encoding detection. Deployed on Railway + Vercel.
 
 ## Methodology
 
-I build reliable, maintainable software. I leverage AI (Claude) professionally through a strict engineering methodology: focusing on precise problem definition and system architecture blueprints to ensure enterprise-grade code quality.
+I build reliable, maintainable software, and I use AI (Claude) through a fixed process rather than ad hoc: a written spec first, then a plan only — I review and refine the plan before any code is generated. One task at a time, so I can follow what actually changes. No sensitive data leaves the system, and decisions are documented so the context survives.
 
 ## Stack
 
-**Angular** · **TypeScript** · **RxJS** · **Signals** · **NestJS** · **Tailwind CSS** · **PrimeNG** · **GitHub/GitLab** · **Capacitor**
+Angular · TypeScript · RxJS · Signals · PrimeNG · Tailwind CSS · NestJS · Prisma · PostgreSQL · Capacitor · Git/GitLab
+
+*Currently deepening: Java EE · automated testing*
 
 ---
 
 <details>
-<summary>🇭🇺 <b>Kattints ide a magyar verzióhoz! / Click here for Hungarian!</b></summary>
+<summary><b>🇭🇺 Kattints ide a magyar verzióhoz! / Click here for Hungarian!</b></summary>
 
 <br>
 
 # Angular / TypeScript Fejlesztő
 
-Frontend mérnök, aki skálázható nagyvállalati (enterprise) alkalmazásokra, reaktív állapotkezelésre (state management) és strukturált, mesterséges intelligencia által támogatott munkafolyamatokra specializálódott.
+Frontend mérnök, aki skálázható nagyvállalati alkalmazásokat épít — az architektúrától az éles telepítésig teljes felelősséggel.
 
 ## Jelenlegi fókusz
 
-* **Frontend felelősség (Nagyvállalati):** Egy országos, valós idejű adatfeldolgozó platform frontend architektúrájának vezetése. A teljes frontend életciklus (Angular, PrimeNG, Tailwind), a komplex jogosultságkezelés és állapotkezelés (erősen támaszkodva az RxJS-re és a Signalokra a service-driven architektúrákban) menedzselése, napi szintű együttműködésben a keresztfunkcionális mérnöki csapatokkal.
-* **K+F / Saját projektek:** Egy több bérlős (multi-tenant) SaaS / Mini ERP (Angular + NestJS) tervezése és fejlesztése a teljes termék-életciklussal, külső szolgáltatások integrációjával és alapvető DevOps folyamatokkal való kísérletezés céljából.
+- **Önálló frontend-tulajdonos (nagyvállalati):** Egy országos, több bérlős (multi-tenant) nevezési és eseménykezelő platform teljes frontendjét terveztem meg és építettem fel nulláról, és két éve egyedül viszem — architektúra, jogosultsági modell, központi hibakezelés, többnyelvűség, ~50 képernyő —, az éles telepítésekkel együtt. Angular · PrimeNG · Tailwind.
+- **Mobil (Capacitor):** Egy offline-first Android alkalmazás ~90%-át fejlesztettem sporteseményekre, folyamatos QR-kód-beolvasásra: lokális tárolás ütemezett háttérszinkronnal, kamerahasználat, refresh tokenes hitelesítés. Egyetlen esemény napján **125 készüléken futott, és 12.000+ beolvasást dolgozott fel**.
+- **Saját termék (egyedül, éles üzemben):** Több bérlős SaaS-t építek végponttól végpontig — Angular + NestJS + Prisma + PostgreSQL. HttpOnly JWT rotáló refresh tokenekkel, CSRF origin-ellenőrzés, bérlőnkénti rate limiting, granuláris jogosultságkulcsok, előfizetéshez kötött funkciókapcsolók, ütemezett feladatok, valamint CSV/XLSX import kódolás-felismeréssel. Railway + Vercel.
 
 ## Módszertan
 
-Megbízható, karbantartható szoftvereket építek. Az MI-t (Claude) professzionálisan, egy szigorú mérnöki módszertan szerint alkalmazom: a pontos problémameghatározásra és a rendszerarchitektúra-tervezésre (blueprint) fókuszálok, hogy garantáljam a nagyvállalati szintű kódminőséget.
+Megbízható, karbantartható szoftvert építek, és az AI-t (Claude) nem alkalomszerűen, hanem rögzített folyamat szerint használom: előbb írásos specifikáció, aztán kizárólag terv — a tervet átolvasom és finomítom, mielőtt bármilyen kód készülne. Egyszerre egy feladat, hogy végig tudjam követni, mi változik. Szenzitív adat nem hagyja el a rendszert, a döntések pedig dokumentálva vannak.
 
 ## Stack (Technológiák)
 
-**Angular** · **TypeScript** · **RxJS** · **Signals** · **NestJS** · **Tailwind CSS** · **PrimeNG** · **GitHub/GitLab** · **Capacitor**
+Angular · TypeScript · RxJS · Signals · PrimeNG · Tailwind CSS · NestJS · Prisma · PostgreSQL · Capacitor · Git/GitLab
+
+*Jelenleg mélyítem: Java EE · automatizált tesztelés*
 
 </details>
