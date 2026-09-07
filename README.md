@@ -5,8 +5,8 @@ Frontend engineer building scalable enterprise applications — with end-to-end 
 ## Current Focus
 
 - **Sole Frontend Owner (Enterprise):** Designed and built the complete frontend of a nationwide, multi-tenant event registration and management platform from scratch, and have owned it for two years — architecture, permission model, HTTP error handling, i18n, ~50 screens — including production deployments. Angular · PrimeNG · Tailwind.
-- **Mobile (Capacitor):** Built ~90% of an offline-first Android app for continuous QR scanning at sports events: local storage with scheduled background sync, camera access, and refresh-token auth. Ran on **125 devices and processed 12,000+ scans during a single event day**.
-- **Product (solo, in production):** Building a multi-tenant SaaS end to end — Angular + NestJS + Prisma + PostgreSQL. HttpOnly JWT with rotating refresh tokens, CSRF origin checks, per-tenant rate limiting, granular permission keys, subscription-based feature gating, scheduled jobs, and CSV/XLSX import with encoding detection. Deployed on Railway + Vercel.
+- **Mobile (Capacitor):** Built ~90% of an offline-first Android app for continuous QR scanning at sports events: local storage with scheduled background sync, camera access, and refresh-token auth. Ran on **125 devices to check in arrivals at an event with 12,000+ registrants**.
+- **Product (solo, in production):** Building a multi-tenant SaaS end to end — Angular + NestJS + Prisma + PostgreSQL. HttpOnly JWT with rotating refresh tokens, CSRF origin checks, per-user and per-IP rate limiting, granular permission keys, subscription-based feature gating, scheduled jobs, and CSV/XLSX import with encoding detection. Deployed on Railway + Vercel.
 
 ## Methodology
 
@@ -32,8 +32,8 @@ Frontend mérnök, aki skálázható nagyvállalati alkalmazásokat épít — a
 ## Jelenlegi fókusz
 
 - **Önálló frontend-tulajdonos (nagyvállalati):** Egy országos, több bérlős (multi-tenant) nevezési és eseménykezelő platform teljes frontendjét terveztem meg és építettem fel nulláról, és két éve egyedül viszem — architektúra, jogosultsági modell, központi hibakezelés, többnyelvűség, ~50 képernyő —, az éles telepítésekkel együtt. Angular · PrimeNG · Tailwind.
-- **Mobil (Capacitor):** Egy offline-first Android alkalmazás ~90%-át fejlesztettem sporteseményekre, folyamatos QR-kód-beolvasásra: lokális tárolás ütemezett háttérszinkronnal, kamerahasználat, refresh tokenes hitelesítés. Egyetlen esemény napján **125 készüléken futott, és 12.000+ beolvasást dolgozott fel**.
-- **Saját termék (egyedül, éles üzemben):** Több bérlős SaaS-t építek végponttól végpontig — Angular + NestJS + Prisma + PostgreSQL. HttpOnly JWT rotáló refresh tokenekkel, CSRF origin-ellenőrzés, bérlőnkénti rate limiting, granuláris jogosultságkulcsok, előfizetéshez kötött funkciókapcsolók, ütemezett feladatok, valamint CSV/XLSX import kódolás-felismeréssel. Railway + Vercel.
+- **Mobil (Capacitor):** Egy offline-first Android alkalmazás ~90%-át fejlesztettem sporteseményekre, folyamatos QR-kód-beolvasásra: lokális tárolás ütemezett háttérszinkronnal, kamerahasználat, refresh tokenes hitelesítés. Egy **12 000 nevezős rendezvényen, 125 készüléken** ezzel olvasták be az érkezőket.
+- **Saját termék (egyedül, éles üzemben):** Több bérlős SaaS-t építek végponttól végpontig — Angular + NestJS + Prisma + PostgreSQL. HttpOnly JWT rotáló refresh tokenekkel, CSRF origin-ellenőrzés, felhasználónkénti és IP-alapú rate limiting, granuláris jogosultságkulcsok, előfizetéshez kötött funkciókapcsolók, ütemezett feladatok, valamint CSV/XLSX import kódolás-felismeréssel. Railway + Vercel.
 
 ## Módszertan
 
